@@ -5,7 +5,7 @@ I'm a Full Stack Developer with expertise in MEAN and MERN stack. Additionally, 
 
 ## Get in Touch
 - LinkedIn: [Muhammad Fahad](https://www.linkedin.com/in/muhammad-fahad-bin-sajjad)
-- Email: your.email@example.com
+- Email: mfahadbinsajjad@gmail.com
 
 ## Fun Fact
 I love exploring new technologies and building cool projects in my free time!
