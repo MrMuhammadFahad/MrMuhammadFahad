@@ -1,47 +1,62 @@
-Hi there, I'm Muhammad Fahad! 👋
-🚀 About Me
+# Hi there, I'm Muhammad Fahad! 👋
+
+## 🚀 About Me
 
 I'm a Software Engineer and Full Stack Developer with 5+ years of industry experience building scalable, secure, and high-performance web applications.
 
-I specialize in MEAN and MERN stack development, and I also work extensively with Python (FastAPI, Flask, Django) and Node.js (Express, NestJS) for backend systems.
+I specialize in **MEAN and MERN stack development**, and I also work extensively with:
 
-Over the years, I’ve:
+- Python (FastAPI, Flask, Django)
+- Node.js (Express, NestJS)
+- REST APIs with JWT & Role-Based Access Control
+- Microservices Architecture
+- Cloud-native deployments on AWS
+- Docker & CI/CD pipelines
 
-Built secure REST APIs with JWT & RBAC
+I enjoy solving complex problems, optimizing system performance, and writing clean, maintainable code.
 
-Designed scalable microservices architectures
+Currently, I’m pursuing my MSc in **Optics, Image, Vision & Multimedia**, expanding my knowledge into computer vision and intelligent systems.
 
-Optimized SQL & NoSQL databases
+---
 
-Deployed cloud-native applications on AWS
+## 🛠️ Tech Stack
 
-Worked with Docker and CI/CD pipelines
+**Languages:**  
+Python | JavaScript | TypeScript  
 
-Currently, I’m pursuing my MSc in Optics, Image, Vision & Multimedia, expanding my expertise into computer vision and intelligent systems.
+**Frontend:**  
+Angular | React  
 
-I enjoy solving complex problems, improving system performance, and writing clean, maintainable code.
+**Backend:**  
+Node.js | NestJS | Express | FastAPI | Flask | Django  
 
-🛠️ Tech Stack
+**Databases:**  
+PostgreSQL | MySQL | MongoDB  
 
-Languages: Python, JavaScript, TypeScript
-Frontend: Angular, React
-Backend: Node.js, NestJS, Express, FastAPI, Flask, Django
-Databases: PostgreSQL, MySQL, MongoDB
-Cloud & DevOps: AWS (S3, EC2, Lambda), Docker, CI/CD
-Tools: Git, GitHub, Redis, RabbitMQ, WebSockets
+**Cloud & DevOps:**  
+AWS (S3, EC2, Lambda) | Docker | CI/CD  
 
-🌱 Currently Exploring
+**Tools & Others:**  
+Git | GitHub | Redis | RabbitMQ | WebSockets | Socket.IO  
 
-Computer Vision & Image Processing
+---
 
-Scalable Cloud Architectures
+## 🌱 Currently Exploring
 
-System Design & Performance Optimization
+- Computer Vision & Image Processing  
+- Scalable Cloud Architectures  
+- System Design & Performance Optimization  
+- AI-Integrated Applications  
 
-AI-integrated Applications
+---
 
-📫 Get in Touch
+## 📫 Get in Touch
 
-🔗 LinkedIn: Muhammad Fahad
+- 🔗 LinkedIn: [Muhammad Fahad](https://www.linkedin.com/in/muhammad-fahad-bin-sajjad)
+- 📧 Email: mfahadbinsajjad@gmail.com
 
-📧 Email: mfahadbinsajjad@gmail.com
+---
+
+## ⚡ Fun Fact
+
+I genuinely enjoy exploring new technologies and building cool side projects in my free time — sometimes just to understand how things work under the hood.
