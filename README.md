@@ -59,4 +59,4 @@ Git | GitHub | Redis | RabbitMQ | WebSockets | Socket.IO
 
 ## ⚡ Fun Fact
 
-I genuinely enjoy exploring new technologies and building cool side projects in my free time — sometimes just to understand how things work under the hood.
+I genuinely enjoy exploring new technologies and building cool side projects in my free time sometimes just to understand how things work under the hood.
