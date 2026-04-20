@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** with 5+ years of experience designing and building **scalable, secure, and high-performance applications**. I thrive at the intersection of clean architecture, performance optimization, and real-world problem solving.
+I'm a passionate **Software Engineer** with 5+ years of experience designing and building **scalable, secure, and high performance applications**. I thrive at the intersection of clean architecture, performance optimization, and real world problem solving.
 
 My core strength lies in **MEAN & MERN stack development**, complemented by strong backend engineering and cloud-native practices.
 
-Currently, I’m pursuing an MSc in **Optics, Image, Vision & Multimedia**, where I’m expanding into **computer vision, deep learning, and intelligent systems** — bridging software engineering with AI-driven innovation.
+Currently, I’m pursuing an MSc in **Optics, Image, Vision & Multimedia**, where I’m expanding into **computer vision, deep learning, and intelligent systems** bridging software engineering with AI driven innovation.
 
 ---
 
@@ -71,7 +71,7 @@ I’m particularly interested in **deploying AI models into scalable production 
 ## 📫 Let's Connect
 
 * 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-fahad-bin-sajjad
-* 📧 Email: [mfahadbinsajjad@gmail.com](mailto:mfahadbinsajjad@gmail.com)
+* 📧 Email: [mfahadbinsajjad@gmail.com](mailto:m.fahad.bnsajjad@gmail.com)
 
 ---
 
