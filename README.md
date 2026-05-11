@@ -8,7 +8,7 @@
 
 I'm a passionate **Software Engineer** with 5+ years of experience designing and building **scalable, secure, and high performance applications**. I thrive at the intersection of clean architecture, performance optimization, and real world problem solving.
 
-My core strength lies in **MEAN & MERN stack development**, complemented by strong backend engineering and cloud-native practices.
+My core strength lies in **Python, MEAN & MERN stack development**, complemented by strong backend engineering and cloud-native practices.
 
 Currently, I’m pursuing an MSc in **Optics, Image, Vision & Multimedia**, where I’m expanding into **computer vision, deep learning, and intelligent systems** bridging software engineering with AI driven innovation.
 
